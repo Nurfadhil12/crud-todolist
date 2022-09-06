@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import "~bootstrap/scss/bootstrap";
+
+// @import "./assets/sass/variables.css";
+@import "./assets/sass/general.css";
+@import "./assets/sass/dashboard.css";
+@import "./assets/sass/todo_detail.css";
+@import "./assets/sass/icon.css";
+@import "./assets/sass/header.css";
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f4f4f4;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,76 @@
+.btn {
+    border-radius: 45px;
+    border: 0px;
+    padding: 13.5px 29px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.btn.btn-primary {
+    background-color: #16abf8;
+}
+
+.btn.btn-danger {
+    background-color: #ED4C5C;
+}
+
+.btn.btn-secondary {
+    background-color: #f4f4f4;
+    color: #4A4A4A;
+}
+
+.btn .icon-plus {
+    margin-right: 5px;
+}
+  
+.container {
+    max-width: 1000px;
+}
+  
+.modal-delete .modal-content {
+    border-radius: 12px;
+}
+
+.modal-delete .modal-content .modal-header {
+    border: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-delete .modal-content .modal-body {
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+    line-height: 27px;
+    border: 0px;
+}
+
+.modal-delete .modal-content .modal-body .modal-footer {
+    display: flex;
+    justify-content: center;
+    border: 0px;        
+}
+
+.modal-delete .modal-content .modal-body .modal-footer .btn {
+    width: 150px;
+    height: 54px;
+    margin: 0px 10px;
+}
+  
+.modal-toast .modal-content {
+      border-radius: 12px;
+      border: 0px;
+      
+}
+
+.modal-toast .modal-content .modal-body {
+    display: flex;
+    padding: 20px 30px;
+    
+}
+
+.modal-toast .modal-content .modal-body p {
+    margin: 0px 0px 0px 13px;
+}
+  

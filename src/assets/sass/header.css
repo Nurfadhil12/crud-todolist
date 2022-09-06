@@ -1,0 +1,12 @@
+.header {
+    height: 105px;
+    background-color: #16abf8;
+    color: white;
+    display: flex;
+    align-items: center;    
+}
+
+.header h2 {
+    font-size: 24px;
+    font-weight: 700;
+}

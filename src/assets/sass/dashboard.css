@@ -1,0 +1,178 @@
+.todo-header {
+    display: flex;
+    justify-content: space-between;
+    margin: 43px 0px 55px 0px;
+    
+  }
+
+.todo-header h1 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.todo-header .btn {
+    width: 170px;
+    height: 54px;
+}
+  
+.dashboard-content .col-3 {
+    padding: 0px 20px 0px 0px;
+}
+
+.spinner-wrapper {
+    width: 100%;
+    height: calc(100vh - 280px);
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.spinner-wrapper .spinner-border {
+    border-color: #16abf8;
+    border-right-color: transparent;
+}
+
+.activity-card {
+    height: 234px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 22px 27px;
+    margin-bottom: 26px;
+    position: relative;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.activity-card .activity-body {
+    cursor: pointer;
+    height: 158px;
+    
+}
+
+.activity-card .activity-body h4 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.activity-card .card-footer {
+    position: absolute;
+    z-index: 2;
+    bottom: 25px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    border: 0px;
+    width: calc(100% - 54px);
+    padding: 0;
+}
+.activity-card .card-footer span {
+    color: #888;
+}
+
+.activity-card img {
+    cursor: pointer;
+}
+
+.modal-add-activity {
+    display: flex;
+    justify-content: center;
+}
+.modal-add-activity .modal-dialog {
+    max-width: 830px;
+}
+.modal-add-activity .modal-content {
+    width: 830px;
+    border-radius: 12px;
+    border: 0px;
+}
+.modal-add-activity .modal-content .modal-header {
+    height: 70px;
+    padding: 24px 30px;
+}
+.modal-add-activity .modal-content .modal-header .modal-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 11px 0px 0px !important;
+    width: 100%;
+}
+ 
+.modal-add-activity .modal-content .modal-header h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.modal-add-activity .modal-content .modal-body {
+    padding: 38px 41px 38px 30px;
+}
+
+.modal-add-activity .modal-content .modal-body label {
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 9px;
+    border-radius: 6px;
+}
+
+.modal-add-activity .modal-content .modal-body .form-control {
+    height: 52px;
+    margin-bottom: 26px;
+}
+
+.modal-add-activity .modal-content .modal-body .select-priority {
+    width: 205px;
+    background-color: transparent;
+}
+
+.modal-add-activity .modal-content .modal-body .select-priority .css-1s2u09g-control {
+    height: 52px;
+    border-radius: 6px;
+    border: 1px solid #E5E5E5;
+}
+
+.modal-add-activity .modal-content .modal-body .select-priority .css-1pahdxg-control {
+    height: 52px;
+    border-radius: 6px;
+    border: 1px solid #E5E5E5;
+} 
+
+.modal-add-activity .modal-content .modal-body .select-priority .css-1okebmr-indicatorSeparator {
+    width: 0px;
+}
+
+.modal-add-activity .modal-content .modal-body .select-priority:focus {
+    outline: 1px;
+}
+
+.modal-add-activity .modal-content .modal-footer {
+    padding: 15px 40px 19px 40px;
+}
+
+.modal-add-activity .modal-content .modal-footer .btn {
+    width: 150px;
+    height: 54px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.label-indicator {
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    margin: 0px 19px 0px 7px;
+}
+.label-indicator.very-high {
+    background-color: #ED4C5C;
+}
+.label-indicator.high {
+    background-color: #F8A541;
+}
+.label-indicator.normal {
+    background-color: #00A790;
+}
+.label-indicator.low {
+    background-color: #428BC1;
+}
+.label-indicator.very-low {
+    background-color: #8942C1;
+}
+  

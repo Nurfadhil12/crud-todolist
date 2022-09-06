@@ -1,0 +1,152 @@
+.icon-plus {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-plus.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .icon-edit-h {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-edit-h.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-edit-p {
+    width: 20px;
+    height: 20px;
+    background-image: url("../images/icon-edit-p.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-back {
+    width: 32px;
+    height: 32px;
+    background-image: url("../images/icon-back.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-close {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-close.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-alert-sm {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-alert-sm.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-danger-sm {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-alert.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-dropdown {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-dropdown.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-sort {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-sort.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-sort-a-alpha {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-sort-a-alpha.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-sort-d-alpha {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-sort-d-alpha.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-sort-done {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-sort-active.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-sort-oldest {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-sort-oldest.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+  
+  .icon-sort-newest {
+    width: 24px;
+    height: 24px;
+    background-image: url("../images/icon-sort-newest.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+  }
